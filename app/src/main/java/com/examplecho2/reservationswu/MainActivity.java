@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
         Button buttonGoogleSignIn=findViewById(R.id.btnGoogleSignIn);
 
-    } // end onCreate
+    }
+// end onCreate
 
     private View.OnClickListener mClicks = new View.OnClickListener() {
         @Override
@@ -28,12 +29,3 @@ public class MainActivity extends AppCompatActivity {
     };
 
 } // end class
-
-
-
-
-
-
-
-
-
