@@ -48,7 +48,8 @@ public class MainActivity extends AppCompatActivity {
                 .build();
         mGoogleSignInClient = GoogleSignIn.getClient(this, googleSignInOptions);
 
-    } // end onCreate
+    }
+// end onCreate
 
     private View.OnClickListener mClicks = new View.OnClickListener() {
         @Override
@@ -109,12 +110,3 @@ public class MainActivity extends AppCompatActivity {
 
 
 } // end class
-
-
-
-
-
-
-
-
-
