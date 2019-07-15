@@ -15,10 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         Button buttonGoogleSignIn=findViewById(R.id.btnGoogleSignIn);
 
-    }
-}
-
-
     } // end onCreate
 
     private View.OnClickListener mClicks = new View.OnClickListener() {
@@ -32,3 +28,12 @@ public class MainActivity extends AppCompatActivity {
     };
 
 } // end class
+
+
+
+
+
+
+
+
+
