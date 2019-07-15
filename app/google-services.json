@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103189075076",
+    "firebase_url": "https://swutest2ksh.firebaseio.com",
+    "project_id": "swutest2ksh",
+    "storage_bucket": "swutest2ksh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103189075076:android:b66cd5d85e4a121c",
+        "android_client_info": {
+          "package_name": "com.examplecho2.reservationswu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103189075076-c7t77bgg9l759v05jbtbr9nicre5pl3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examplecho2.reservationswu",
+            "certificate_hash": "2311d4d97fd1660edbcef48f497d7533587dd206"
+          }
+        },
+        {
+          "client_id": "103189075076-jguq40aj38jdbskukg34mdiob4rhcd3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADLJ8HbTQbPFZTN6HlMjrQoalQF8racnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103189075076-jguq40aj38jdbskukg34mdiob4rhcd3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
