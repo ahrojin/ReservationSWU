@@ -42,5 +42,5 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:srcCompat="@drawable/reservationSWU" />
+        app:srcCompat="@drawable/reservationswu" />
 </androidx.constraintlayout.widget.ConstraintLayout>
