@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "103189075076-c7t77bgg9l759v05jbtbr9nicre5pl3m.apps.googleusercontent.com",
+          "client_id": "103189075076-vkmlqvj4qocqq8og00if5g6hd18msrur.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.examplecho2.reservationswu",
-            "certificate_hash": "2311d4d97fd1660edbcef48f497d7533587dd206"
+            "certificate_hash": "b59da17e4bf15194ba1f42a75b701485a13bf973"
           }
         },
         {
